@@ -1,12 +1,12 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<FeaturePage /> should render its heading 1`] = `
+exports[`<FilterPage /> should render its heading 1`] = `
 <div>
   <h1
     class="H1-tncdg6-0 hpAKSC"
   >
     <span>
-      Features
+      Filters
     </span>
   </h1>
   <ul
@@ -41,12 +41,12 @@ exports[`<FeaturePage /> should render its heading 1`] = `
       </p>
       <p>
         <span>
-          
+
       Enjoy the best DX and code your app at the speed of thought! Your
     saved changes to the CSS and JS are reflected instantaneously
     without refreshing the page. Preserve application state even when
     you update something in the underlying code!
-    
+
         </span>
       </p>
     </li>
@@ -62,12 +62,12 @@ exports[`<FeaturePage /> should render its heading 1`] = `
       </p>
       <p>
         <span>
-          
+
       Write composable CSS that's co-located with your components for
     complete modularity. Unique generated class names keep the
     specificity low while eliminating style clashes. Ship only the
     styles that are on the page for the best performance.
-    
+
         </span>
       </p>
     </li>
@@ -83,10 +83,10 @@ exports[`<FeaturePage /> should render its heading 1`] = `
       </p>
       <p>
         <span>
-          
+
       The next frontier in performant web apps: availability without a
       network connection from the instant your users load the app.
-    
+
         </span>
       </p>
     </li>

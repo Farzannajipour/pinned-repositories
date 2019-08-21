@@ -10,7 +10,7 @@ export const scope = 'boilerplate.components.Footer';
 export default defineMessages({
   licenseMessage: {
     id: `${scope}.license.message`,
-    defaultMessage: 'This project is licensed under the MIT license.',
+    defaultMessage: 'Thank you for this challenge! <3',
   },
   authorMessage: {
     id: `${scope}.author.message`,
