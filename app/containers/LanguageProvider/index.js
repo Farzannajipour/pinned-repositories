@@ -39,13 +39,4 @@ const mapStateToProps = createSelector(
   }),
 );
 
-function mapDispatchToProps(dispatch) {
-  return {
-    dispatch,
-  };
-}
-
-export default connect(
-  mapStateToProps,
-  mapDispatchToProps,
-)(LanguageProvider);
+export default connect(mapStateToProps)(LanguageProvider);
