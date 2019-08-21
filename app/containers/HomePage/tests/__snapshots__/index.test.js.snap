@@ -1,66 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<HomePage /> should render and match the snapshot 1`] = `
-<article>
-   <div>
-      <div class="container">
-         <div class="my-5 row">
-            <div class="col-8">
-               <h2 class="mt-2 H2-egphza-0 HsCXl">Here is Farzannajipour Repository: </h2>
-               <a href="https://api.github.com/users/Farzannajipour">
-                  <p>username: Farzannajipour</p>
-               </a>
-            </div>
-            <div class="col-4"><img width="100" src="https://avatars0.githubusercontent.com/u/6618162?v=4" class="rounded-circle" alt="user-profile"></div>
-         </div>
-         <h3>Pinned Repositories</h3>
-         <div class="mb-5 row">
-            <div class="col-sm-6">
-               <div class="card card-body">
-                  <div class="card-title"><strong>vue-project-with-test</strong></div>
-                  <p class="card-text">A simple page VueJs base project</p>
-               </div>
-            </div>
-            <div class="col-sm-6">
-               <div class="card card-body">
-                  <div class="card-title"><strong>docker-php-crossfitbox</strong></div>
-                  <p class="card-text">This project demonstrates how to run a PHP application with test using Docker. A simple Crossfitbox plan</p>
-               </div>
-            </div>
-         </div>
-         <h3>All Repositories </h3>
-         <div class="row">
-            <div class="col-sm-12">
-               <div class="card card-body">
-                  <div class="card-title"><strong>react-login</strong></div>
-                  <p class="card-text">A client side implementation of authentication using react.js for my blog on medium. This is the second part of my previous blog on how to implement scalable node.js server.</p>
-               </div>
-            </div>
-            <div class="col-sm-12">
-               <div class="card card-body">
-                  <div class="card-title"><strong>docker-php-crossfitbox</strong></div>
-                  <p class="card-text">This project demonstrates how to run a PHP application with test using Docker. A simple Crossfitbox plan</p>
-               </div>
-            </div>
-            <div class="col-sm-12">
-               <div class="card card-body">
-                  <div class="card-title"><strong>europe-developer-focused-jobs</strong></div>
-                  <p class="card-text">این مخزن راهنمایی برای گرفتن پیشنهاد کاری از اروپا ویژه برنامه نویسان است</p>
-               </div>
-            </div>
-            <div class="col-sm-12">
-               <div class="card card-body">
-                  <div class="card-title"><strong>vue-project-with-test</strong></div>
-                  <p class="card-text">A simple page VueJs base project</p>
-               </div>
-            </div>
-         </div>
-      </div>
-      <hr class="mt-5">
-      <section class="Section-sc-1eulrsm-0 eTEsZl">
-         <h2 class="H2-egphza-0 HsCXl">Or you can try me and find any repo easily:</h2>
-         <form class="Form-dmhz4x-0 ZClLh"><label for="username"><span>Show Github repositories by</span><span class="AtPrefix-sc-1suuq8o-0 fvrDQr"><span>@</span></span><input id="username" type="text" placeholder="farzannajipour" class="Input-sc-19rkjmi-0 gyJaEd" value=""></label></form>
-      </section>
-   </div>
-</article>
+<h1>
+  <span>
+    This is the HomePage container!
+  </span>
+</h1>
 `;

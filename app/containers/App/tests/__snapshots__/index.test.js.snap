@@ -1,18 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<App /> should render and match the snapshot 1`] = `
-<ForwardRef>
-  <HelmetWrapper
-    defaultTitle="jStack Assignment"
-    defer={true}
-    encodeSpecialCharacters={true}
-  >
-    <meta
-      content="jStack Assignment"
-      name="description"
-    />
-  </HelmetWrapper>
-  <Header />
+<div>
   <Switch>
     <Route
       component={[Function]}
@@ -21,14 +10,8 @@ exports[`<App /> should render and match the snapshot 1`] = `
     />
     <Route
       component={[Function]}
-      path="/filters"
-    />
-    <Route
-      component={[Function]}
-      path=""
     />
   </Switch>
-  <Footer />
   <GlobalStyleComponent />
-</ForwardRef>
+</div>
 `;
