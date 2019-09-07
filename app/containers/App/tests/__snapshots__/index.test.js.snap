@@ -3,12 +3,12 @@
 exports[`<App /> should render and match the snapshot 1`] = `
 <ForwardRef>
   <HelmetWrapper
-    defaultTitle="jStack Assignment"
+    defaultTitle="Pinned Repo Finder"
     defer={true}
     encodeSpecialCharacters={true}
   >
     <meta
-      content="jStack Assignment"
+      content="Pinned Repo Finder"
       name="description"
     />
   </HelmetWrapper>

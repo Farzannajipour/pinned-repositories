@@ -35,8 +35,8 @@ const AppWrapper = styled.div`
 export default function App() {
   return (
     <AppWrapper>
-      <Helmet defaultTitle="jStack Assignment">
-        <meta name="description" content="jStack Assignment" />
+      <Helmet defaultTitle="Pinned Repo Finder">
+        <meta name="description" content="Pinned Repo Finder" />
       </Helmet>
       <Header />
       <Switch>

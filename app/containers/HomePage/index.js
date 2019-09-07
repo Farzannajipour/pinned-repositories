@@ -123,7 +123,7 @@ export function HomePage({
     <article>
       <Helmet>
         <title>Home Page</title>
-        <meta name="description" content="jStack Assignment homepage" />
+        <meta name="description" content="Pinned Repo Finder" />
       </Helmet>
       <div>
         <Container>
