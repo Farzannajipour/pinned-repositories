@@ -10,4 +10,4 @@
  */
 
 export const CHANGE_USERNAME = 'boilerplate/Home/CHANGE_USERNAME';
-export const GITHUB_TOKEN = `0af9fb34d876e524c7adeb23804a81edafda8ff9`;
+export const GITHUB_TOKEN = `21c2803b0bb745c11a5d0b5bb7a186941d415279`;
